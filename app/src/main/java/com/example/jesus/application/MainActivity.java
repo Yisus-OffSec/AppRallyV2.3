@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
     public void Salir(View view)
     {
         finish();
+        System.out.println("HOla Mubdo");
     }
 }
